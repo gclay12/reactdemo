@@ -8,7 +8,7 @@ Am very familiar with front end development.  I know html, css, and javascript, 
 
 ## Portfolio
 
-Here is my porfolio website.  I made it with html, css, and vanellia javascript without using react. I thinhk it demonstrates my sense of design and that I understand more the basics of front end development.  http://www.gclay.net/
+Here is my porfolio website.  I made it with html, css, and vanellia javascript without using react. I thinhk it demonstrates my sense of design and that I understand more then the basics of front end development.  http://www.gclay.net/
 
 ## How to use
 
