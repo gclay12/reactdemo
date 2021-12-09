@@ -2,6 +2,8 @@
 
 This project is to demonstrate my knowledge of the basics of react.  
 
+In this project I demonstrate using react router for navigation and a few examples of react state and props and how they interact.  And how to use state to change css styles.
+
 ## How to use
 
 run npm install to install dependancies. then npm start to run in development server.
