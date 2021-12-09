@@ -2,7 +2,7 @@
 
 This project is to demonstrate my knowledge of the basics of react.  
 
-# Front end development
+## Front end development
 
 Am very familiar with front end development.  I know html, css, and javascript, And I'm familiar with react.  
 
